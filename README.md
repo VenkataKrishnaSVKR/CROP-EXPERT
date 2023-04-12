@@ -1,6 +1,6 @@
 # Crop Expert
  
-# Potato Disease Classification
+
 
 ## Setup for Python:
 
